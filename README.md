@@ -1,0 +1,1 @@
+Here, we are trying to get the filenames from a folder in a FTP server such as MassIVE Repository. Access the Notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abzer005/Fetch-FTP-Filenames/blob/main/04032024_filenames_from_FTP.ipynb) 
